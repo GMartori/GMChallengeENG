@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GMChallengeENG", "GMChallengeENG\GMChallengeENG.csproj", "{C567AB77-79EE-4F85-ADF9-492A4F0119CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnit", "TestUnit\TestUnit.csproj", "{D9A85596-7949-4163-96D1-1A61B1C4FEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C567AB77-79EE-4F85-ADF9-492A4F0119CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C567AB77-79EE-4F85-ADF9-492A4F0119CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C567AB77-79EE-4F85-ADF9-492A4F0119CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C567AB77-79EE-4F85-ADF9-492A4F0119CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A85596-7949-4163-96D1-1A61B1C4FEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A85596-7949-4163-96D1-1A61B1C4FEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A85596-7949-4163-96D1-1A61B1C4FEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A85596-7949-4163-96D1-1A61B1C4FEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26561774-37AB-42B4-877D-8656566797DC}
+	EndGlobalSection
+EndGlobal
