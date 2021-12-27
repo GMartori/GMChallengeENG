@@ -64,7 +64,7 @@ namespace GMChallengeENG.Controllers
                 context.SaveChanges();
                 return Ok();
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 return BadRequest();
             }
